@@ -1,0 +1,18 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "description": "This is a package that cuts the losses you make from changes in exchange rate by updating your product prices in real time to reflect the exchange rate changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "author": "Peter Onum Ndukwe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
